@@ -1,5 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+
 table, tr, th, td, caption{
     border: 1px solid Black;
     border-collapse: collapse;
     padding: 0.5rem;
+}
+
+html{
+    font-family: 'Oswald', sans-serif;
+    background-color: antiquewhite;
 }
